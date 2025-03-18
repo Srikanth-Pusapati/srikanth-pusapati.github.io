@@ -21,13 +21,11 @@
             "comment": "OKTA widget based Reset Password link"
           },
           {
-            "/": "/ui-pa/",
-            "#": "/la/password",
+            "/": "/v1/ui-pa/la/password",
             "comment": "Reset Password link"
           },
           {
-            "/": "/ui-pa/",
-            "#": "/la/unlock",
+            "/": "/v1/ui-pa/la/unlock",
             "comment": "Unlock Account link"
           }
         ]
